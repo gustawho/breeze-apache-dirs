@@ -64,6 +64,7 @@ The default Breeze theme has icons in place for the following mime types:
 
 ##Credits
 
-Breeze owes it's existence to the amazing Apaxy by [Lars Jung](https://twitter.com/lrsjng). Had I not seen this, I would never have looked into making my own (probably way less useful) version.
+Breeze owes it's existence to the amazing [Apaxy](http://adamwhitcroft.com/apaxy/) by [Adam Whitcroft](https://twitter.com/adamwhitcroft). Had I not seen this, I would never have looked into making my own (probably way less useful) version.
 
-[Breeze Icons](http://tiheum.deviantart.com/art/Faenza-Icons-173323228) are used in the `breeze` theme.
+[Breeze Icons](https://github.com/KDE/breeze-icons8) are used in the `breeze` theme.
+
