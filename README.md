@@ -66,5 +66,5 @@ The default Breeze theme has icons in place for the following mime types:
 
 Breeze owes it's existence to the amazing [Apaxy](http://adamwhitcroft.com/apaxy/) by [Adam Whitcroft](https://twitter.com/adamwhitcroft). Had I not seen this, I would never have looked into making my own (probably way less useful) version.
 
-[Breeze Icons](https://github.com/KDE/breeze-icons8) are used in the `breeze` theme.
+[Breeze Icons](https://github.com/KDE/breeze-icons) are used in the `breeze` theme.
 
