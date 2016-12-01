@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen+Mono);
+@import url(https://cdn.jsdelivr.net/font-hack/2.020/css/hack-extended.min.css");
 * {
 	margin:0;
 	padding:0;
@@ -14,7 +14,7 @@ html {
 	color:#eff0f1;
 	font-weight:400;
 	font-size:1em;
-	font-family:'Oxygen Mono', sans-serif;
+	font-family: Hack, 'Oxygen Mono', sans-serif;
 	line-height:2em;
 }
 body {
@@ -24,7 +24,7 @@ body {
         -moz-backface-visibility:hidden;
 }
 code {
-	font-family:'Oxygen Mono',consolas,monospace;	
+	font-family: Hack, 'Oxygen Mono',consolas,monospace;	
 }
 a {
 	color:#3daee9;
